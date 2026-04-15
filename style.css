@@ -1,0 +1,14 @@
+body{background-color: rgb(219, 237, 231);}
+.goback{
+ font-size: x-large;
+    
+    
+}
+.goback:hover{
+    color: azure;
+    background-color: brown;
+}
+.head1{
+    text-align: center;
+    color: rgb(139, 4, 236);
+}
